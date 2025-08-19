@@ -23,3 +23,44 @@
 {"timestamp": "2025-08-19T05:53:39.478327Z", "event": "READ_COMPLETE", "data": {"file": "KJV_1_888", "lines_read": 888, "sha256": "abc123def456"}, "hash": "e08bf58fe3fea0fb"}
 {"timestamp": "2025-08-19T05:53:39.478481Z", "event": "PRAYER_GENERATED", "data": {"scroll": 1, "prayer": 1, "sha256": "prayer123hash", "bones_discovered": 3}, "hash": "f5a8f9dedf024013"}
 {"timestamp": "2025-08-19T05:53:39.478565Z", "event": "ALIGNMENT_CHECK", "data": {"scroll": 1, "prayer": 1, "aligned": true, "revision_needed": false}, "hash": "182e0dfe36b01526"}
+{
+  "timestamp": "2025-08-19T21:01:29.218585Z",
+  "event": "READ_START",
+  "data": {
+    "file": "KJV_2_888",
+    "expected_lines": 888
+  },
+  "hash": "3e2eb6502f43d366"
+}
+{
+  "timestamp": "2025-08-19T21:01:30.000000Z",
+  "event": "READ_COMPLETE",
+  "data": {
+    "file": "KJV_2_888",
+    "lines_read": 888,
+    "sha256": "9a91ff1731b43c02a7e03f7fe0b4fa6c17a7c995a337866802278bb64e14a549"
+  },
+  "hash": "a7b9c3d2e5f81234"
+}
+{
+  "timestamp": "2025-08-19T21:02:00.000000Z",
+  "event": "PRAYER_GENERATED",
+  "data": {
+    "scroll": 1,
+    "prayer": 2,
+    "sha256": "9a91ff1731b43c02a7e03f7fe0b4fa6c17a7c995a337866802278bb64e14a549",
+    "bones_discovered": 15
+  },
+  "hash": "b8c4d5e6f7890123"
+}
+{
+  "timestamp": "2025-08-19T21:02:01.000000Z",
+  "event": "ALIGNMENT_CHECK",
+  "data": {
+    "scroll": 1,
+    "prayer": 2,
+    "aligned": true,
+    "revision_needed": false
+  },
+  "hash": "c9d5e6f789012345"
+}

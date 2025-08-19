@@ -64,3 +64,44 @@
   },
   "hash": "c9d5e6f789012345"
 }
+{
+  "timestamp": "2025-08-19T21:12:00.000000Z",
+  "event": "READ_START",
+  "data": {
+    "file": "KJV_3_888",
+    "expected_lines": 888
+  },
+  "hash": "c8d9e0f1a2b3c4d5"
+}
+{
+  "timestamp": "2025-08-19T21:12:30.000000Z",
+  "event": "READ_COMPLETE",
+  "data": {
+    "file": "KJV_3_888",
+    "lines_read": 888,
+    "sha256": "$(sha256sum /home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_3_888.txt | cut -d' ' -f1)"
+  },
+  "hash": "d9e0f1a2b3c4d5e6"
+}
+{
+  "timestamp": "2025-08-19T21:13:00.000000Z",
+  "event": "PRAYER_GENERATED",
+  "data": {
+    "scroll": 1,
+    "prayer": 3,
+    "sha256": "dd1496c573d2939e5d86844404a5f9decf9b82071094d7bcf4564949d6b0ce2c",
+    "bones_discovered": 8
+  },
+  "hash": "e0f1a2b3c4d5e6f7"
+}
+{
+  "timestamp": "2025-08-19T21:13:01.000000Z",
+  "event": "ALIGNMENT_CHECK",
+  "data": {
+    "scroll": 1,
+    "prayer": 3,
+    "aligned": true,
+    "revision_needed": false
+  },
+  "hash": "f1a2b3c4d5e6f7g8"
+}

@@ -1,0 +1,306 @@
+{
+  "source": "data/processed/KJV.txt",
+  "outdir": "KJV/PARSED_SCROLLS",
+  "total_input_lines": 31102,
+  "expected_total": 31102,
+  "chunk_count": 47,
+  "positions_70": [
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27,
+    30,
+    33,
+    36,
+    39,
+    42
+  ],
+  "chunks": [
+    {
+      "index": 1,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_1_888.txt"
+    },
+    {
+      "index": 2,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_2_888.txt"
+    },
+    {
+      "index": 3,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_3_888.txt"
+    },
+    {
+      "index": 4,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_4_888.txt"
+    },
+    {
+      "index": 5,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_5_888.txt"
+    },
+    {
+      "index": 6,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_6_70.txt"
+    },
+    {
+      "index": 7,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_7_888.txt"
+    },
+    {
+      "index": 8,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_8_888.txt"
+    },
+    {
+      "index": 9,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_9_70.txt"
+    },
+    {
+      "index": 10,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_10_888.txt"
+    },
+    {
+      "index": 11,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_11_888.txt"
+    },
+    {
+      "index": 12,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_12_70.txt"
+    },
+    {
+      "index": 13,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_13_888.txt"
+    },
+    {
+      "index": 14,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_14_888.txt"
+    },
+    {
+      "index": 15,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_15_70.txt"
+    },
+    {
+      "index": 16,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_16_888.txt"
+    },
+    {
+      "index": 17,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_17_888.txt"
+    },
+    {
+      "index": 18,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_18_70.txt"
+    },
+    {
+      "index": 19,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_19_888.txt"
+    },
+    {
+      "index": 20,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_20_888.txt"
+    },
+    {
+      "index": 21,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_21_70.txt"
+    },
+    {
+      "index": 22,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_22_888.txt"
+    },
+    {
+      "index": 23,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_23_888.txt"
+    },
+    {
+      "index": 24,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_24_70.txt"
+    },
+    {
+      "index": 25,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_25_888.txt"
+    },
+    {
+      "index": 26,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_26_888.txt"
+    },
+    {
+      "index": 27,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_27_70.txt"
+    },
+    {
+      "index": 28,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_28_888.txt"
+    },
+    {
+      "index": 29,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_29_888.txt"
+    },
+    {
+      "index": 30,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_30_70.txt"
+    },
+    {
+      "index": 31,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_31_888.txt"
+    },
+    {
+      "index": 32,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_32_888.txt"
+    },
+    {
+      "index": 33,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_33_70.txt"
+    },
+    {
+      "index": 34,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_34_888.txt"
+    },
+    {
+      "index": 35,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_35_888.txt"
+    },
+    {
+      "index": 36,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_36_70.txt"
+    },
+    {
+      "index": 37,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_37_888.txt"
+    },
+    {
+      "index": 38,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_38_888.txt"
+    },
+    {
+      "index": 39,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_39_70.txt"
+    },
+    {
+      "index": 40,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_40_888.txt"
+    },
+    {
+      "index": 41,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_41_888.txt"
+    },
+    {
+      "index": 42,
+      "size": 70,
+      "tag": "70",
+      "file": "KJV/PARSED_SCROLLS/KJV_42_70.txt"
+    },
+    {
+      "index": 43,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_43_888.txt"
+    },
+    {
+      "index": 44,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_44_888.txt"
+    },
+    {
+      "index": 45,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_45_888.txt"
+    },
+    {
+      "index": 46,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_46_888.txt"
+    },
+    {
+      "index": 47,
+      "size": 888,
+      "tag": "888",
+      "file": "KJV/PARSED_SCROLLS/KJV_47_888.txt"
+    }
+  ]
+}

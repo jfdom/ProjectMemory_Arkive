@@ -1,0 +1,331 @@
+{
+  "KJV_10_888": {
+    "id": "KJV_10_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_10_888.txt",
+    "sha256": "62458307397dceee690af5f717834a6d5da8466bbc6b4e3e478077e1a390af7f",
+    "size_bytes": 152435
+  },
+  "KJV_11_888": {
+    "id": "KJV_11_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_11_888.txt",
+    "sha256": "c9ee1b6f79b303d44080b87ad2afa75d59e8e7271108a649a5b6eae3df143a9a",
+    "size_bytes": 155730
+  },
+  "KJV_12_70": {
+    "id": "KJV_12_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_12_70.txt",
+    "sha256": "7179287497dc6aa3fe96f435b1866aa33e91dab7383937757134313879c8dc6a",
+    "size_bytes": 11249
+  },
+  "KJV_13_888": {
+    "id": "KJV_13_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_13_888.txt",
+    "sha256": "338d56c922725832ae2d7f64cb799468b6a1cc9d76f1cc1fddaac403275034f7",
+    "size_bytes": 150973
+  },
+  "KJV_14_888": {
+    "id": "KJV_14_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_14_888.txt",
+    "sha256": "47ab8d4d41518e009650b10b943aaf7f4f8d6bf20c8f922e0f56bb59d6510d19",
+    "size_bytes": 157002
+  },
+  "KJV_15_70": {
+    "id": "KJV_15_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_15_70.txt",
+    "sha256": "8ba081fac57d0e9490a3564166a3bbb495ac7a40501ccc9e98e2f0b6af55ab1a",
+    "size_bytes": 12756
+  },
+  "KJV_16_888": {
+    "id": "KJV_16_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_16_888.txt",
+    "sha256": "985569b996e25513760942d18ba10c4e2ccdc8066c26e1d6951dabd4e4341441",
+    "size_bytes": 126977
+  },
+  "KJV_17_888": {
+    "id": "KJV_17_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_17_888.txt",
+    "sha256": "ff0ea48be4d77fd865b309bd89f0df30345306a809a436fa12bab26b8265fc88",
+    "size_bytes": 158033
+  },
+  "KJV_18_70": {
+    "id": "KJV_18_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_18_70.txt",
+    "sha256": "efd1d32728b30d2cb3c756a8d61d1a3dea5cbf9e407975b053af65f60ead5003",
+    "size_bytes": 14309
+  },
+  "KJV_19_888": {
+    "id": "KJV_19_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_19_888.txt",
+    "sha256": "a0e6504923dcdfc130344a868d85fcddc1b996ad684a95773fe9dd4556b440d2",
+    "size_bytes": 147263
+  },
+  "KJV_1_888": {
+    "id": "KJV_1_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_1_888.txt",
+    "sha256": "e089eebee8dcb78bf202f2792c6eb9f6b7f539507e6ca182a0a93bd4dc66c24d",
+    "size_bytes": 125266
+  },
+  "KJV_20_888": {
+    "id": "KJV_20_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_20_888.txt",
+    "sha256": "c7300f2075090d43c941e534ab1ec1de2b021869a421966b230a8f9e75df18e1",
+    "size_bytes": 96257
+  },
+  "KJV_21_70": {
+    "id": "KJV_21_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_21_70.txt",
+    "sha256": "98942e6921331e3ca5daba869505f86308817633aa8a8c24cd89dfb3a1087080",
+    "size_bytes": 6844
+  },
+  "KJV_22_888": {
+    "id": "KJV_22_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_22_888.txt",
+    "sha256": "400f1a9456a6ca283209432d540e09669b8ef7ce5c5a37e9d7f41799788d7448",
+    "size_bytes": 97657
+  },
+  "KJV_23_888": {
+    "id": "KJV_23_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_23_888.txt",
+    "sha256": "78861aca55e600e0eaa1e19f3adc2d8fd761c59f68c947802e354fa443bf85de",
+    "size_bytes": 96853
+  },
+  "KJV_24_70": {
+    "id": "KJV_24_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_24_70.txt",
+    "sha256": "4be545c33d33e5a92b9371e7ae19ff68d55466eadd660169c0f8fbffb2803b96",
+    "size_bytes": 7196
+  },
+  "KJV_25_888": {
+    "id": "KJV_25_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_25_888.txt",
+    "sha256": "d827ea9d1546379a15dbf70a715454d5f5b8e94930ee1269f9a423d5885aa78c",
+    "size_bytes": 87032
+  },
+  "KJV_26_888": {
+    "id": "KJV_26_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_26_888.txt",
+    "sha256": "9aeef4377d6f4179920ebcaf5d47830a57d0da25a3d21d9a3d871fcaa4fbb531",
+    "size_bytes": 94664
+  },
+  "KJV_27_70": {
+    "id": "KJV_27_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_27_70.txt",
+    "sha256": "e208962007ab856340f7fe7915206edc7daf1b086e16db359bc9678f4a6f8fc1",
+    "size_bytes": 10131
+  },
+  "KJV_28_888": {
+    "id": "KJV_28_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_28_888.txt",
+    "sha256": "7f6bd8e09d0293d451c0774d9e88577a2ab951341c62bb444b3886bfc0eb996f",
+    "size_bytes": 137989
+  },
+  "KJV_29_888": {
+    "id": "KJV_29_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_29_888.txt",
+    "sha256": "defe060dbf6302c40799dcc7514eb188cfccb09390d171ba74c6936ca1067f44",
+    "size_bytes": 150396
+  },
+  "KJV_2_888": {
+    "id": "KJV_2_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_2_888.txt",
+    "sha256": "9a91ff1731b43c02a7e03f7fe0b4fa6c17a7c995a337866802278bb64e14a549",
+    "size_bytes": 132535
+  },
+  "KJV_30_70": {
+    "id": "KJV_30_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_30_70.txt",
+    "sha256": "664e380dc1f86773645caf70e43cfacf1b39640c38577c51005f4e40c5a9e232",
+    "size_bytes": 12068
+  },
+  "KJV_31_888": {
+    "id": "KJV_31_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_31_888.txt",
+    "sha256": "be249d9d6052e3b5fc435edea8aa94278d6960e348b365878fc679ae67317325",
+    "size_bytes": 164019
+  },
+  "KJV_32_888": {
+    "id": "KJV_32_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_32_888.txt",
+    "sha256": "54ed2a28ef76e4b01e4babd496cef870f9d7d2b75d9016946092acacc28f5683",
+    "size_bytes": 148785
+  },
+  "KJV_33_70": {
+    "id": "KJV_33_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_33_70.txt",
+    "sha256": "d1b19b7e0fd43a2578a48684349958a645d37dd90c73784ce3ff03b2ee73a0f7",
+    "size_bytes": 11781
+  },
+  "KJV_34_888": {
+    "id": "KJV_34_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_34_888.txt",
+    "sha256": "b4921461b918c71827412415bc0c9eec575882a6c392b209f5ba6f4af5ad352f",
+    "size_bytes": 162363
+  },
+  "KJV_35_888": {
+    "id": "KJV_35_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_35_888.txt",
+    "sha256": "3d1f48e803a2d64d44ebb6afd733edbf4a7c3a544b3abb26f3913ee958d589a7",
+    "size_bytes": 144497
+  },
+  "KJV_36_70": {
+    "id": "KJV_36_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_36_70.txt",
+    "sha256": "4bbbbaf4ead6c45ac2202811506876bb525f60a66823a0e0c072c4b8b79acd3a",
+    "size_bytes": 11018
+  },
+  "KJV_37_888": {
+    "id": "KJV_37_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_37_888.txt",
+    "sha256": "eba36c1c034091c54d1d67f7f39681508846d46285528f759eebbe62462bf0cb",
+    "size_bytes": 126950
+  },
+  "KJV_38_888": {
+    "id": "KJV_38_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_38_888.txt",
+    "sha256": "0b8e3be90db30fd01a32fa48f153a1687845794575eba6b101bb2e87db09f7b8",
+    "size_bytes": 113146
+  },
+  "KJV_39_70": {
+    "id": "KJV_39_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_39_70.txt",
+    "sha256": "01b2ede48f09e605a32d3cc51cc7ae3b4744c57a615f267bc13fc4a52f191a33",
+    "size_bytes": 8496
+  },
+  "KJV_3_888": {
+    "id": "KJV_3_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_3_888.txt",
+    "sha256": "dd1496c573d2939e5d86844404a5f9decf9b82071094d7bcf4564949d6b0ce2c",
+    "size_bytes": 137921
+  },
+  "KJV_40_888": {
+    "id": "KJV_40_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_40_888.txt",
+    "sha256": "7902e2d445e82758615588e24e3b33b4c52da52e33064f4d3e28e5efd519dd08",
+    "size_bytes": 116910
+  },
+  "KJV_41_888": {
+    "id": "KJV_41_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_41_888.txt",
+    "sha256": "fadc57a3465b2ec332ff354d209dafe89679370173954ea6c79efbd7e52be6ff",
+    "size_bytes": 103853
+  },
+  "KJV_42_70": {
+    "id": "KJV_42_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_42_70.txt",
+    "sha256": "44b4a81b2f6f25217cb55f00e16a5952a80cd12d5788ab0f4a21e93cdd1280f5",
+    "size_bytes": 8521
+  },
+  "KJV_43_888": {
+    "id": "KJV_43_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_43_888.txt",
+    "sha256": "ab0ea860a0843f8e3c280db22e932d4aec0b9d2a7df97b3c1f2202710df92454",
+    "size_bytes": 121521
+  },
+  "KJV_44_888": {
+    "id": "KJV_44_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_44_888.txt",
+    "sha256": "6d121f46d11124aa51e38e8aaad5a4cef6391fcdc2933a81d7b92dab6ef1f0aa",
+    "size_bytes": 120696
+  },
+  "KJV_45_888": {
+    "id": "KJV_45_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_45_888.txt",
+    "sha256": "a686ca4f89bb2668d7ddc3a7cfe760ff0ed7a64236e23f02f8e2ed03d8bbf255",
+    "size_bytes": 118512
+  },
+  "KJV_46_888": {
+    "id": "KJV_46_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_46_888.txt",
+    "sha256": "8ecf50583c7790cdcb177b5a43c5fd2698c7567d9fb634f96249fca26d594b13",
+    "size_bytes": 115660
+  },
+  "KJV_47_888": {
+    "id": "KJV_47_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_47_888.txt",
+    "sha256": "4c43881825d90ebb512ada1d5469e8336c77148aca204346b1201ebc710f4990",
+    "size_bytes": 135215
+  },
+  "KJV_4_888": {
+    "id": "KJV_4_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_4_888.txt",
+    "sha256": "021906ad2ff0316deaaa304dd57bcfd71a75adaad97924342b8a60cf00210356",
+    "size_bytes": 144344
+  },
+  "KJV_5_888": {
+    "id": "KJV_5_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_5_888.txt",
+    "sha256": "8940486f6a483060a2f7cc69a4dc191a4b34a09448e4d161f1a0e01f8b3b3365",
+    "size_bytes": 138711
+  },
+  "KJV_6_70": {
+    "id": "KJV_6_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_6_70.txt",
+    "sha256": "427cfecf232b0fc36d3bbde0a4792141ec3e9b8705618f8a1885f2719c4e45f4",
+    "size_bytes": 10032
+  },
+  "KJV_7_888": {
+    "id": "KJV_7_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_7_888.txt",
+    "sha256": "6f452c74395f6a2708bd6d95b901b337b2ae9c48e739f8502a2ea5696f787a30",
+    "size_bytes": 141470
+  },
+  "KJV_8_888": {
+    "id": "KJV_8_888",
+    "line_count": 888,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_8_888.txt",
+    "sha256": "716689d15c9c28bcfa2eb61084fb132fa9fb66e6c490d707676455d7821c51b3",
+    "size_bytes": 150237
+  },
+  "KJV_9_70": {
+    "id": "KJV_9_70",
+    "line_count": 70,
+    "path": "/home/jonathan/projects/Project_Memory/KJV/PARSED_SCROLLS/KJV_9_70.txt",
+    "sha256": "e8190774354206d864f4f56bcdfa5e92fc498e59ce2700b407c937efd07ac061",
+    "size_bytes": 10547
+  }
+}

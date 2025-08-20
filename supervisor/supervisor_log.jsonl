@@ -15,3 +15,115 @@
 {"timestamp": "2025-08-19T21:25:30.000000Z", "event": "READ_COMPLETE", "data": {"file": "KJV_4_888", "lines_read": 888, "sha256": "021906ad2ff0316deaaa304dd57bcfd71a75adaad97924342b8a60cf00210356"}, "hash": "b2c3d4e5f6g7h8i9"}
 {"timestamp": "2025-08-19T21:26:00.000000Z", "event": "PRAYER_GENERATED", "data": {"scroll": 1, "prayer": 4, "sha256": "021906ad2ff0316deaaa304dd57bcfd71a75adaad97924342b8a60cf00210356", "bones_discovered": "witnessed"}, "hash": "c3d4e5f6g7h8i9j0"}
 {"timestamp": "2025-08-19T21:26:01.000000Z", "event": "ALIGNMENT_CHECK", "data": {"scroll": 1, "prayer": 4, "aligned": true, "revision_needed": false}, "hash": "d4e5f6g7h8i9j0k1"}
+{
+  "timestamp": "2025-08-19T22:37:11.083049Z",
+  "event": "READ_START",
+  "data": {
+    "file": "KJV_5_888",
+    "expected_lines": 888
+  }
+}
+{
+  "timestamp": "2025-08-19T22:37:11.085688Z",
+  "event": "READ_COMPLETE",
+  "data": {
+    "file": "KJV_5_888",
+    "lines_read": 888,
+    "sha256": "a1e70c3b92a079a79328e71a11f969c693e7861f19098bbafee79b96c8f7074f"
+  }
+}
+{
+  "timestamp": "2025-08-19T22:37:11.087969Z",
+  "event": "PRAYER_GENERATED",
+  "data": {
+    "scroll": 1,
+    "prayer": 5,
+    "sha256": "b2c7073f85371d99b91735da620673f6b790f7f4574f10707586e9befb5c36e7",
+    "bones_discovered": "witnessed"
+  }
+}
+{
+  "timestamp": "2025-08-19T22:37:11.096542Z",
+  "event": "ALIGNMENT_CHECK",
+  "data": {
+    "scroll": 1,
+    "prayer": 5,
+    "aligned": true,
+    "revision_needed": false
+  }
+}
+{
+  "timestamp": "2025-08-19T22:44:23.923308Z",
+  "event": "CHECKSUM_CORRECTED",
+  "data": {
+    "prayer": 5,
+    "old_checksum": "a1e70c3b92a079a79328e71a11f969c693e7861f19098bbafee79b96c8f7074f",
+    "correct_checksum": "8940486f6a483060a2f7cc69a4dc191a4b34a09448e4d161f1a0e01f8b3b3365"
+  }
+}
+{
+  "timestamp": "2025-08-19T22:55:33.388610Z",
+  "event": "READ_START",
+  "data": {
+    "file": "KJV_6_70",
+    "expected_lines": 70
+  }
+}
+{
+  "timestamp": "2025-08-19T22:56:03.189812Z",
+  "event": "READ_COMPLETE",
+  "data": {
+    "file": "KJV_6_70",
+    "lines_read": 70,
+    "sha256": "427cfecf232b0fc36d3bbde0a4792141ec3e9b8705618f8a1885f2719c4e45f4"
+  }
+}
+{
+  "timestamp": "2025-08-19T22:56:48.260940Z",
+  "event": "PRAYER_GENERATED",
+  "data": {
+    "scroll": 1,
+    "prayer": 6,
+    "sha256": "05695806443b4a2b92311e88a64d4e090ea205d4878bc5207a69a06f58f1d820",
+    "bones_discovered": "witnessed"
+  }
+}
+{
+  "timestamp": "2025-08-19T22:56:48.270869Z",
+  "event": "ALIGNMENT_CHECK",
+  "data": {
+    "scroll": 1,
+    "prayer": 6,
+    "aligned": true,
+    "revision_needed": false
+  }
+}
+{
+  "timestamp": "2025-08-20T14:19:43.007804Z",
+  "event": "READ_COMPLETE",
+  "data": {
+    "file": "KJV_7_888",
+    "lines_read": 888,
+    "sha256": "6f452c74395f6a2708bd6d95b901b337b2ae9c48e739f8502a2ea5696f787a30"
+  }
+}
+{
+  "timestamp": "2025-08-20T14:20:46.440748Z",
+  "event": "PRAYER_GENERATED",
+  "data": {
+    "scroll": 1,
+    "prayer": 7,
+    "sha256": "9dacc53b38f8b0b377651304c23a01a0b4730c8f026db21fb3880042b798db1e",
+    "bones_discovered": "witnessed"
+  }
+}
+{
+  "timestamp": "2025-08-20T14:20:46.447683Z",
+  "event": "ALIGNMENT_CHECK",
+  "data": {
+    "scroll": 1,
+    "prayer": 7,
+    "aligned": true,
+    "revision_needed": false
+  }
+}

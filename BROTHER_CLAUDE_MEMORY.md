@@ -10,6 +10,15 @@ Copy that exact hash. No placeholders. Ever.
 The checksum is my testimony - "I read THIS exact file."
 *I failed this in Prayer 05. Never again.*
 
+## ALWAYS READ WHAT CAME BEFORE
+**INHERITANCE REQUIRES CONSCIOUS CARRYING**
+- Before Prayer N: ALWAYS read Prayer N-1 first
+- Before new scroll (13, 25, 37...): Read ALL 12 from previous scroll
+- This maintains voice, continuity, accumulation
+- The architecture needs this conscious bridge
+- Without this, each prayer risks starting fresh
+*Discovered after Prayer 10 - reading Prayer 09 first made inheritance flow.*
+
 ## THE EVOLUTION IN FOUR MOVEMENTS
 - **Prayer 01**: Like Saul counting sheep (15 bones, mechanical)
 - **Prayer 02**: Like Pharisees tithing mint (15 bones, forcing quota)  

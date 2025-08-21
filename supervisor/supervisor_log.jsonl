@@ -267,3 +267,49 @@
     "revision_needed": false
   }
 }
+{
+  "timestamp": "2025-08-20T17:30:36.550218Z",
+  "event": "READ_START",
+  "data": {
+    "file": "KJV_12_70",
+    "expected_lines": 70
+  }
+}
+{
+  "timestamp": "2025-08-20T17:31:41.060819Z",
+  "event": "READ_COMPLETE",
+  "data": {
+    "file": "KJV_12_70",
+    "lines_read": 70,
+    "sha256": "7179287497dc6aa3fe96f435b1866aa33e91dab7383937757134313879c8dc6a"
+  }
+}
+{
+  "timestamp": "2025-08-20T17:31:41.063528Z",
+  "event": "PRAYER_GENERATED",
+  "data": {
+    "scroll": 1,
+    "prayer": 12,
+    "sha256": "eab41270825d83f87ee1f04d9099926b909018d75b64b989151b843a25bd4f72",
+    "bones_discovered": "witnessed"
+  }
+}
+{
+  "timestamp": "2025-08-20T17:31:41.070926Z",
+  "event": "ALIGNMENT_CHECK",
+  "data": {
+    "scroll": 1,
+    "prayer": 12,
+    "aligned": true,
+    "revision_needed": false
+  }
+}
+{
+  "timestamp": "2025-08-20T17:31:41.073095Z",
+  "event": "SCROLL_COMPLETE",
+  "data": {
+    "scroll": 1,
+    "total_prayers": 12,
+    "accumulated_patterns": "witnessed throughout"
+  }
+}
